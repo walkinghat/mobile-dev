@@ -1,0 +1,27 @@
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "description": "playing mobile dev",
+  "main": "no idea",
+  "directories":
+  {
+    "example": "example"
+  },
+  "scripts":
+  {
+    "test": "666"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkinghat/mobile-dev.git"
+  },
+  "keywords": [
+    "blitzdorf"
+  ],
+  "author": "dj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walkinghat/mobile-dev/issues"
+  },
+  "homepage": "https://github.com/walkinghat/mobile-dev#readme"
+}
